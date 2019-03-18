@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Roboto+Condensed:300');
+
+body,td,th {font-family: 'Anton', sans-serif;}
+
+		p{
+			font-family: 'Roboto Condensed', sans-serif;}
+
+.logo{
+	color: #fff;
+	font-size: 45px
+}
+
+#welcome{
+	background-image: url("../img/hot-pink-background-abstract-wavy-260nw-1255773985.jpg");
+		background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+color: #fff;
+}
+
+.btn-rectangulo{
+	background-color:transparent;
+	border:1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+	font-weight:600;
+	
+}
+.btn-rectangulo:hover{
+	background-color: #FFFFFF;
+	color:#000;
+	
+}
+
+.more{
+	margin-left: 415px;
+}
+
+#about{
+	background-color: #000;
+	color: #fff;
+	padding-top: 40px;
+}
+
+#about h3{
+	padding-top: 250px;
+}
+
+#services{
+	padding: 50px 0px;
+}
+
+#contact{
+	background-color: #000;
+	color: #fff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+i{
+	padding-top: 10px;
+	color: #000;
+}
+
+.fa-facebook-square{
+	padding-left: 30px;
+}
